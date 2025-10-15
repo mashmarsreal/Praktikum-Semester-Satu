@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PraktikumLoop3 {
+public class VolumeCalcWMenu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int pil,w,x,y,z;
@@ -75,3 +75,4 @@ public class PraktikumLoop3 {
         System.out.println("Program dihentikan...");
     }
 }
+
