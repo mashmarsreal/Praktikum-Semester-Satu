@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas2 {
+public class PerhitunganKWH {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int posAwal,posAkhir,beban,PPJ,pemakaian,pajak,tanpaPajak;
@@ -32,4 +32,5 @@ public class Tugas2 {
         System.out.printf("%-20s%s%d%s\n", "Total bayar", ": Rp ", tanpaPajak + pajak, ",-");
         System.out.println("================================================");
     }
+
 }
