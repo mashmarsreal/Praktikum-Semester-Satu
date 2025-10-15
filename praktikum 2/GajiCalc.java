@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas3{
+public class GajiCalc {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int jam,upah,lembur = 0 ,denda = 0,total;
@@ -23,4 +23,5 @@ public class Tugas3{
         System.out.println("---------------------");
         System.out.printf("%-15s%s%d\n", "Total","= Rp. ", total);
     }
+
 }
