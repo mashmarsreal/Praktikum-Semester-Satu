@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas1 {
+public class Pengoprasian2angka {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float a,b;
@@ -14,3 +14,4 @@ public class Tugas1 {
         System.out.printf("%-25s%s%-15.1f\n","  Hasil pembagian", ":", a / b);
     }
 }
+
