@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TugasPrak1 {
+public class ArrayPenyimpanan {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int pil,cursor=0,data1;
@@ -86,4 +86,5 @@ public class TugasPrak1 {
             
         } while (pil != 7);
     }
+
 }
