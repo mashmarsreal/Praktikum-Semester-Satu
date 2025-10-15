@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas2{
+public class IMTCalc {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double b,t,IMT;
@@ -25,4 +25,5 @@ public class Tugas2{
         }
         System.out.printf("%s%3.2f%s%s","IMT = ", IMT, " Termasuk ", kondisi);
     }
+
 }
