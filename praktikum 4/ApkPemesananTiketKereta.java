@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TugasPrak2 {
+public class ApkPemesananTiketKereta {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[][] Data = {
@@ -101,4 +101,5 @@ public class TugasPrak2 {
         } while (pil != 0);
         sc.close();
     }
+
 }
