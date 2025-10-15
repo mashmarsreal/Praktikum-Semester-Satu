@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tugas1{
+public class LuasDanKeliling {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a,b,r,pilihan;
@@ -58,4 +58,5 @@ public class Tugas1{
             default -> System.out.println("Data tak ditemukan, program dihentikan ...");
         }
     }
+
 }
