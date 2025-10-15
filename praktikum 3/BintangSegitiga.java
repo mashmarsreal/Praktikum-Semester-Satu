@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PraktikumLoop1 {
+public class BintangSegitiga {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan nilai n = ");
@@ -16,3 +16,4 @@ public class PraktikumLoop1 {
         }
     }
 }
+
